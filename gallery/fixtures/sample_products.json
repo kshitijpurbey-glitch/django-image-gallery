@@ -1,0 +1,35 @@
+[
+  {
+    "model": "gallery.product",
+    "pk": 1,
+    "fields": {
+      "name": "Mountain Escape",
+      "description": "A sample landscape image for the gallery.",
+      "image": "products/mountain_escape.jpg",
+      "created_at": "2026-10-07T10:01:00Z",
+      "updated_at": "2026-10-07T10:01:00Z"
+    }
+  },
+  {
+    "model": "gallery.product",
+    "pk": 2,
+    "fields": {
+      "name": "Ocean View",
+      "description": "A sample ocean image for demonstrating multiple gallery items.",
+      "image": "products/ocean_view.jpg",
+      "created_at": "2026-10-07T10:02:00Z",
+      "updated_at": "2026-10-07T10:02:00Z"
+    }
+  },
+  {
+    "model": "gallery.product",
+    "pk": 3,
+    "fields": {
+      "name": "City Lights",
+      "description": "A sample city image for testing the responsive layout.",
+      "image": "products/city_lights.jpg",
+      "created_at": "2026-10-07T10:03:00Z",
+      "updated_at": "2026-10-07T10:03:00Z"
+    }
+  }
+]
